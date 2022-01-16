@@ -5,7 +5,7 @@ Codepath prework: The user sees custom text/background color and can tap a butto
 
 ### App Walk-though
 
-<img src="https://recordit.co/L55hsw1v4D" width=200><br>
+<img src="http://g.recordit.co/L55hsw1v4D.gif" width=200><br>
 
 
 ### Required User Stories
